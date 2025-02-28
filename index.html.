@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>BitRand</title>
+    <style>
+        body { text-align: center; font-family: Arial, sans-serif; margin-top: 20%; }
+        h1 { color: #333; }
+    </style>
+</head>
+<body>
+    <h1>BitRand</h1>
+    <p>Website Under Maintenance</p>
+    <p>We're working hard to bring you something great. Check back soon!</p>
+</body>
+</html>
